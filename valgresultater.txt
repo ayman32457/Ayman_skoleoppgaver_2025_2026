@@ -1,0 +1,18 @@
+=== hver simmulering ===
+Ap: 21 stemmer (21.00%)
+Høyre: 16 stemmer (16.00%)
+FrP: 20 stemmer (20.00%)
+SV: 17 stemmer (17.00%)
+Venstre: 26 stemmer (26.00%)
+Vinner: Koalisjon
+Koalisjon: Venstre, Ap
+
+=== hver simmulering ===
+Ap: 16 stemmer (16.00%)
+Høyre: 18 stemmer (18.00%)
+FrP: 15 stemmer (15.00%)
+SV: 26 stemmer (26.00%)
+Venstre: 25 stemmer (25.00%)
+Vinner: Koalisjon
+Koalisjon: SV, Venstre
+
